@@ -1,0 +1,14 @@
+{
+    "name": "songyang/laravist",
+    "description": "laravist demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songyang",
+            "email": "18638727656junior@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
